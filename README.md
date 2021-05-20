@@ -1,2 +1,2 @@
-20213091	 Choi Jiwon_Software
+20213091 Choi Jiwon
 Kookmin univ. Software 21
